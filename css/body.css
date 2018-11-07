@@ -1,0 +1,239 @@
+body {
+    font: 400 15px/1.8 Lato, sans-serif;
+    color: #000;
+  }
+  
+
+
+
+/* h3, h4 {
+      margin: 10px 0 30px 0;
+      letter-spacing: 10px;      
+      font-size: 20px;
+      color: #111;
+  } */
+
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: darkgrey;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+
+
+#section1, #section2 {
+    height: 700px;
+}
+
+
+.about-content {
+    text-align: left;
+    color: #555;
+}
+
+.about-image img {
+    border-radius: 50px;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+#contact {
+    padding-top:100px;
+    padding-bottom: 10px;
+    height:auto;
+    color: #000;
+    font-weight: bold;
+    /*background: url(/img/city.jpg) bottom center fixed;
+    background-size: cover;
+    position: relative;
+    border-top: 1px solid #200000;
+    border-top: 1px solid #F8F8F8; 
+    box-shadow: inset 0 30px 20px -20px #555; */
+}
+
+
+#address {
+    border-right: 1px solid #000;
+    -webkit-box-shadow: 10px 0 5px -2px #888;
+    box-shadow: 3px 0 5px -2px #000;
+}
+
+#venture > a > img{
+    max-width: 80%;
+    padding: 10px;
+}
+
+#contact-in {
+    padding-bottom: 40px;
+}
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 80%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+
+
+/*certification-area*/
+.certi-area {
+    /*background: #2d2d30;*/
+    background: #000;
+    color: #000;
+}
+.certi-area h3 {
+    color: #fff;
+}
+.certi-area .thumbnail p {
+    font-style: italic;
+    color: #000;
+}
+
+
+.thumbnail {
+    padding: 0 0 15px 0;
+    border: none;
+    border-radius: 0;
+}
+
+
+
+
+/*podcast-area*/
+.podcast-area {
+    color:#FFF;
+    background-color:#000; 
+    text-align:center;
+    padding:50px 80px;
+    text-align: justify;
+}
+
+.panel-group p {
+    color:#000;
+}
+
+
+
+
+
+/*achivements-area*/
+.achivements-area {
+    padding: 40px;
+    color: #FFF;
+    background-color:#000; 
+}
+
+td .skill-icon {
+    font-size: 40px; 
+}
+
+td .skill-img {
+    max-width: 70%;
+}
+
+.skill-gly {
+    font-size: 25px;
+}
+
+
+
+
+.photo-area {
+    padding: 40px;
+    background-color: #000;
+    color: #FFF;
+    height: 600px;
+}
+
+.media:hover {
+    opacity: 0.5;
+}
+
+
+#myCarousel {
+    max-width: 520px;
+}
+
+
+
+
+
+
+
+
+
+
+#section6 {
+    color: #FFF;
+    background-color: #000;
+    height: 600px;
+}
+
+/*-------------------------------*/
+/*    Carousel Fade Transition   */
+/*-------------------------------*/
+
+#fade-quote-carousel.carousel {
+  padding-bottom: 60px;
+}
+#fade-quote-carousel.carousel .carousel-inner .item {
+  opacity: 0;
+  -webkit-transition-property: opacity;
+      -ms-transition-property: opacity;
+          transition-property: opacity;
+}
+#fade-quote-carousel.carousel .carousel-inner .active {
+  opacity: 1;
+  -webkit-transition-property: opacity;
+      -ms-transition-property: opacity;
+          transition-property: opacity;
+}
+#fade-quote-carousel.carousel .carousel-indicators {
+  bottom: 10px;
+}
+#fade-quote-carousel.carousel .carousel-indicators > li {
+  background-color: #FFF;
+  border: none;
+}
+#fade-quote-carousel blockquote {
+    text-align: center;
+    border: none;
+}
+.blockquote-footer {
+    background-color: transparent;
+}
+/*
+#fade-quote-carousel .profile-circle {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 100px;
+}*/
+
+
+
+
+
+
+
+
+.medium-area {
+    padding: 100px;
+}
