@@ -1,21 +1,21 @@
-# chethanve.github.io
-
-
-
-
-_________ .__            __  .__                    ____   ____
-\_   ___ \|  |__   _____/  |_|  |__ _____    ____   \   \ /   /
-/    \  \/|  |  \_/ __ \   __\  |  \\__  \  /    \   \   Y   / 
-\     \___|   Y  \  ___/|  | |   Y  \/ __ \|   |  \   \     /  
- \______  /___|  /\___  >__| |___|  (____  /___|  /    \___/   
-        \/     \/     \/          \/     \/     \/             
-        
+# Chethan's Portfolio Repository
         
 
-Hi There! 
+### Hi There! 
 
 Thank you, for your intrest in my profile.
-Please click on https://chethanve.github.io from my portfolio details.
+
+Please click on the link below to access my portfolio details.
+
+```
+https://chethanve.github.io
+```
 
 Regards
 Chethan
+
+#### Note: License
+This code is licensed under the MIT/Redhood License - see the [LICENSE.md](LICENSE.md) file for details.
+Copyright ©2018 | All rights reserved
+
+
